@@ -1,0 +1,4 @@
+Aloha, my name is Amy. I was born here in Hawaii but I grew up in Oregon and Florida. I love to do makeup, bake, and dance. 
+
+For my final project I am thinking about doing an app like Pinterest, where you have users that can share links to 
+websites and store them in collections, and they can share photos of their own things as well.
